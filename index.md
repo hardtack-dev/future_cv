@@ -7,7 +7,7 @@
     <img src="https://github.com/hardtack-dev/future_cv/blob/main/assets/profile.jpg?raw=true" width="100px">
 
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 8;">
     <h3 style="padding-top: 10px"><b>하건우 • Gunwoo Ha</b></h3>
     <p>안녕하세요! 기술을 통해 사랑을 전하는 개발자 하건우 입니다</p>
   </div>
