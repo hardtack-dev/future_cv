@@ -129,3 +129,8 @@
 2. 국제 대학생 프로그래밍 대회(ICPC) 6위
 3. CodeForces Rating - Master 달성
 4. 넥슨 해커톤
+
+<br>
+
+## 🪡추천인 / References
+> 광운대학교 정보융합학부 [박규동 교수님](https://github.com/kdpark-phd)
