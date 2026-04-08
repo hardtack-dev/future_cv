@@ -13,12 +13,13 @@
   </div>
 </div>
 
+<br>
+
 ## 📫Links / Contact
 - E-Mail: gunoo827@naver.com
 - Github: <https://github.com/hardtack-dev>
 - Blog: <https://blog.hardtack.dev>
 
-<br>
 <br>
 
 ## 🙌 소개 / About Me
@@ -79,7 +80,7 @@
 ```AI```, ```OCR```, ```Text Recognition```, ```Python```
 
 
-### **2026~ **
+### **2026~**
 
 **학습자 맞춤형 단어 학습 튜터링 프로그램**
 
