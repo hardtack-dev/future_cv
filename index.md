@@ -1,7 +1,7 @@
 > 본 이력서는 **'오픈소스 소프트웨어실습'** 과목 실습을 위해 만든 가상의 CV입니다. <br> This resume is a sample resume created for the “Open Source Software Practicum” course.
 
 ## 🎈프로필 / Profile
-<div>
+
 <div style="display: flex; gap: 20px;">
   <div style="flex: 0.3;">
     <img src="https://github.com/hardtack-dev/future_cv/blob/main/assets/profile.jpg?raw=true" width="100px">
