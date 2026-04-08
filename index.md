@@ -14,11 +14,14 @@
   </div>
 </div>
 
+<br>
 
 ## 📫Links / Contact
 - E-Mail: gunoo827@naver.com
 - Github: https://github.com/hardtack-dev
 - Blog: https://blog.hardtack.dev
+
+<br>
 
 ## 🙌 소개 / About Me
 안녕하세요! 저는 **언어학 & 데이터 사이언스 분야**에서 사람과 자연어 처리(번역NLP 및 LLM모델)에 대해서 연구하는 개발자 하건우입니다. 
@@ -37,8 +40,7 @@
 - **데이터 사이언스**(Data Science) 전공
 - **GPA**: 3.92 / 4.5
 
-
- 
+ <br>
 
 ## ✨Internship
 
@@ -64,6 +66,7 @@
 - 단어학습 알고리즘 최적화 (SM-2 알고리즘 향상)
 - 콘텐츠 관리 대시보드 서버개발
 
+<br>
 
 ## 🎯Exprience & Projects
 
@@ -106,9 +109,9 @@
 
 ```NodeJS```, ```NestJS```, ```TypeScript```, ```MariaDB```
 
+<br>
 
 ## 🧩 자격증 / Certifications
-
 
 |자격증 이름|
 |---|
@@ -119,6 +122,7 @@
 | [***5. 정보처리기사***](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)|
 |[***6. AWS Certified DevOps Engineer - Professional***](https://aws.amazon.com/ko/certification/certified-devops-engineer-professional/)|
 
+<br>
 
 ## 👑 수상 / Awards
 1. 백준 온라인저지 - 알고리즘 티어 다이아몬드(Diamonds) 달성
