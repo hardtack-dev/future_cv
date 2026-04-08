@@ -14,8 +14,6 @@
   </div>
 </div>
 
-<br>
-
 ## 📫Links / Contact
 - E-Mail: gunoo827@naver.com
 - Github: https://github.com/hardtack-dev
