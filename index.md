@@ -15,9 +15,10 @@
 
 ## 📫Links / Contact
 - E-Mail: gunoo827@naver.com
-- Github: https://github.com/hardtack-dev
-- Blog: https://blog.hardtack.dev
+- Github: <https://github.com/hardtack-dev>
+- Blog: <https://blog.hardtack.dev>
 
+<br>
 <br>
 
 ## 🙌 소개 / About Me
@@ -25,6 +26,8 @@
 
 특히 언어습득론 / Second Language Education에 관심을 가져왔으며, 현재는 자연어 처리로 축적된 데이터를 통하여 인간과 컴퓨터의 상호작용, AI를 통한 맞춤형 언어습득 솔루션을 만들어내는 일을 하고 있습니다. 
 
+<br>
+<br>
 
 ## 🎓 Education
 
